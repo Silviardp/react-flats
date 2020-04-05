@@ -7,7 +7,7 @@ export class app extends Component {
   render() {
     return (
       <div>
-        <h1>Hello</h1>
+        <Flat />
       </div>
     );
   }
