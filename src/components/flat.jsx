@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 
-class Flat extends Component {
+export class flat extends Component {
   render() {
     return (
       <div
@@ -19,4 +19,4 @@ class Flat extends Component {
   }
 }
 
-export default Flat;
+export default flat;
